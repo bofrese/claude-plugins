@@ -20,7 +20,7 @@
         "name": "Bo Frese",
         "url": "https://bofrese.dk"
       },
-      "homepage": "https://github.com/bofrese/bob",
+      "homepage": "https://bob.bofrese.dk",
       "license": "Apache-2.0",
       "keywords": ["product-development", "ai-framework", "bdd", "ddd", "discovery", "engineering"]
     }
