@@ -15,7 +15,7 @@
         "repo": "bofrese/bob"
       },
       "description": "AI-powered product development framework. Commands, principles, and protocols for the full product development lifecycle — from discovery through shipped, tested, documented code.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Bo Frese",
         "url": "https://bofrese.dk"
