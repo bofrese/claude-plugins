@@ -23,6 +23,22 @@
       "homepage": "https://bob.bofrese.dk",
       "license": "Apache-2.0",
       "keywords": ["product-development", "ai-framework", "bdd", "ddd", "discovery", "engineering"]
+    },
+    {
+      "name": "b2",
+      "source": {
+        "source": "github",
+        "repo": "bofrese/b2"
+      },
+      "description": "B2 - an AI-first site builder. From idea to live site In a day.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Bo Frese",
+        "url": "https://bofrese.dk"
+      },
+      "homepage": "https://b2.bofrese.dk",
+      "license": "Apache-2.0",
+      "keywords": ["product-development", "ai-framework", "webdesign" ]
     }
   ]
 }

@@ -19,3 +19,11 @@ AI-powered product development framework. Commands, principles, and protocols fo
 ```
 
 [GitHub](https://github.com/bofrese/bob) · [Homepage](https://bob.bofrese.dk)
+
+### B2 - an AI-first site builder
+ 
+From idea to live site In a day.
+
+B2 guides you through the decisions you've been putting off - vision, brand, structure, design, copy. The result is a published static website that sounds and looks like you.
+
+[GitHub](https://github.com/bofrese/b2) · [Homepage](https://b2.bofrese.dk)
